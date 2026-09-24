@@ -4,9 +4,9 @@ Student Information
 
                                             
 
-Student Name   :                                      Adarsh Rathod                                      
+Student Name   :                                      Mansi Patil                                    
 
-ZPRN            :                                     125UAD1148
+ZPRN            :                                     125UAD1029
 
 Class / Division  :                                   SY-B.Tech / A
 
