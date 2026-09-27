@@ -1,25 +1,16 @@
 # Opp-Cpp-Unit-2
  Object Oriented Programming with C++ – Unit II: Inheritance
 
-Student Information
+### Student Information
 
-                                            
+| Field | Details |
+|---------|---------|
+| Student Name | Mansi Patil  |
+| PRN | 125UAD1029 |
+| Class/Division | SY.Btech / A |
+| Course Name | Object Oriented Programming using C++ |
+| Unit | Unit II – Inheritance |
 
-Student Name   :                                      Mansi Patil                                    
-
-ZPRN            :                                     125UAD1029
-
-Class / Division  :                                   SY-B.Tech / A
-
-Course Name      :                                   Object Oriented Programming with C++
-
-Unit              :                                Unit II – Inheritance
-
-Academic Year     :                                  2026–27
-
-Department       :                                   AI & DS
-
-College          :                                  Zeal College of Engineering and Research, Narhe, Pune
 
 About the Unit
 
